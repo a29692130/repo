@@ -2,27 +2,12 @@ Package: com.a29692130.LocalIAPStore
 Version: 1.4-1
 Section: Tweaks
 Maintainer: a29692130 <a29692130@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./deb/com.a29692130.LocalIAPStore_1.4-1_iphoneos-arm.deb
 Size: 71,170
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: LocalIAPStore 內購破解
+Description: 內購破解
 Name: LocalIAPStore
 Author: a29692130 <a29692130@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
+Depiction: https://a29692130.github.io/repo/depictions/?p=LocalIAPStore
